@@ -77,7 +77,7 @@ nav ul li a {
     align-items: center;
     flex-direction: column;
     color: #fff;
-    background-image: url("../assets/img/couple2.webp");
+    background-image: url("/img/couple2.webp");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -244,7 +244,7 @@ nav ul li a {
     align-items: center;
     flex-direction: column;
     width: 100%;
-    background: url("../assets/img/wdbg.webp");
+    background: url("/img/wdbg.webp");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -398,7 +398,7 @@ nav ul li a {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: url("../assets/img/ring.webp") center no-repeat;
+    background: url("/img/ring.webp") center no-repeat;
     background-size: cover;
     height: 100%
 }
