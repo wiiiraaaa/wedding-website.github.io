@@ -76,6 +76,3 @@ return false;
 }
 }
 
-document.addEventListener('contextmenu', function(e) {
-  e.preventDefault();
-});
